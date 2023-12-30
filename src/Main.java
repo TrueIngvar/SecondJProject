@@ -5,4 +5,4 @@ public class Main {
         int allMiles = cost / aMile;
         System.out.println(allMiles);
     }
-}1
+}
